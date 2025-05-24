@@ -7,6 +7,9 @@ __pycache__/
 # Environment variables
 .env
 
+# Gradio temporary files
+.gradio/
+
 # IDE files
 .vscode/
 .idea/
